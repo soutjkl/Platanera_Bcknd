@@ -1,0 +1,170 @@
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\appsettings.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.exe
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.deps.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.runtimeconfig.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.pdb
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.AssemblyReference.cache
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.AssemblyInfoInputs.cache
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.AssemblyInfo.cs
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.CoreCompileInputs.cache
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\scopedcss\bundle\bckPlatanera.styles.css
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.CopyComplete
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\refint\bckPlatanera.dll
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.pdb
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.genruntimeconfig.cache
+C:\Users\DIDIER\Documents\INGENIERIA DE SISTEMAS Y COMPUTACION\SOFTWARE I\PROYECTO FINAL\Proyecto Software\bckPlatanera\bckPlatanera\obj\Debug\net6.0\ref\bckPlatanera.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\appsettings.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.exe
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.deps.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.runtimeconfig.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\bckPlatanera.pdb
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.AssemblyReference.cache
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.AssemblyInfoInputs.cache
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.AssemblyInfo.cs
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.CoreCompileInputs.cache
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\scopedcss\bundle\bckPlatanera.styles.css
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.csproj.CopyComplete
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\refint\bckPlatanera.dll
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.pdb
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\bckPlatanera.genruntimeconfig.cache
+C:\Users\DIDIER\Documents\GitHub\Platanera\bckPlatanera\obj\Debug\net6.0\ref\bckPlatanera.dll
