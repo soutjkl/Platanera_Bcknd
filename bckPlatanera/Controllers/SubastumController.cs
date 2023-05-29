@@ -29,6 +29,11 @@ namespace bckPlatanera.Controllers
         {
             var listPublications = new List<Publication>();
             var listSubastas = _context.Subasta.ToList();
+
+            if(listPublications == null || listSubastas == null){
+                throw new ArgumentException("ok");
+            }
+
             foreach (var subasta in listSubastas)
             {
                 var personAux = _context.People.Where(p => p.DocumentNumber == subasta.PersonDocumentNumber).FirstOrDefault();

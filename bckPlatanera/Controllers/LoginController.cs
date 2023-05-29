@@ -22,8 +22,7 @@ namespace bckPlatanera.Controllers
             _confi = confi;
         }
 
-        [HttpPost]
-
+        [HttpGet]       
         public async Task<IActionResult> Login([FromQuery] string userName, [FromQuery] string password)
         {
             string auxPassword = ToSHA256(password);
@@ -40,6 +39,9 @@ namespace bckPlatanera.Controllers
                 return BadRequest(new { message = "Credenciales incorrectas" });
             }
         }
+
+
+
 
         public static string ToSHA256(string s)
         {
@@ -113,7 +115,6 @@ namespace bckPlatanera.Controllers
 
         public string generateToken(string username, DateTime expirationDate)
         {
-            
             var keyByte = Encoding.ASCII.GetBytes(_confi.GetSection("settings").GetSection("secretKey").ToString());
             var claims = new ClaimsIdentity();
             claims.AddClaim(new Claim(ClaimTypes.NameIdentifier, username));
